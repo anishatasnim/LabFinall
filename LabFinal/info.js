@@ -40,7 +40,8 @@ function f3()
 	{
 		if(pass1.includes(@)|| pass1.includes(#)||pass1.includes($))
 		{
-			document.getElementById('pass').value="correct";
+			alert("okaaa");
+			//document.getElementById('pass').value="correct";
 		}
 		else
 		{
